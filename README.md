@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning programming languages 
 - 💞️ I’m looking to collaborate on projects to improve my abibilities 
-- 📫 How to reach me: lima.juliana453@gmail.com or https://www.linkedin.com/in/consultor-sap-abap-juliana
+- 📫 How to reach me: lima.juliana453@gmail.com or intagram @juju1ima
 
 <!---
 limajulianaa/limajulianaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

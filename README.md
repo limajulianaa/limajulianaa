@@ -29,7 +29,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+Computer+Engineer+Student;and+also+a+Full+Stack+Developer;Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+Computer+Engineering+Student;and+also+a+Full+Stack+Developer;Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -38,7 +38,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>About me</b>
       </samp>
   </summary>
   
@@ -49,28 +49,28 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=limajulianaa&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
   />
   <img
     height=165
     align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=limajulianaa&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
   />
   <br>
   <br>
   <img
     align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=midnight_purple"
+    alt="Top Languages"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limajulianaa&theme=midnight_purple"
   />
   <br>
   <br>
   <img
     height=154
     align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=midnight-purple&card_width=885"
+    alt="Top Languages"
+    src="https://github-readme-streak-stats.herokuapp.com?user=limajulianaa&theme=midnight-purple&card_width=885"
   />
   </div>
 
@@ -110,17 +110,6 @@
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](https://discord.gg/8kc8HqXVw2)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
   
-</div>
-
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
 </div>
 
 <br>

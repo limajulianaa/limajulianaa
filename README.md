@@ -3,37 +3,39 @@
 <br>
 
 <div align="center">
-  
   <b>`プログラマ`</b>
   <samp>
       <br>
       Hi there! I'm <b>Juliana Lima</b>
   </samp>
 </div>
+
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fklimajulianaa&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fklimajulianaa&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
 </div>
       
-<br>
-<br>
+<br><br>
       
 <div align="center">
-  <img src="[https://imgur.com/a/o-mais-mais-AEt46xn.gif]" width="200">
+  <!-- GIF do Gengar corrigido com link direto -->
+  <img src="https://i.imgur.com/AEt46xn.gif" width="200">
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/kami_♡-black" />
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Computer+Engineer+student;Welcome to my profile!" alt="Typing SVG"/>
 </div>
 
-<br>
-<br>
+<br><br>
 
 <details align="center">  
   <summary>
@@ -57,22 +59,20 @@
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=limajulianaa&layout=compact&font=Iosevka&langs_count=16&theme=pink"
   />
-  <br>
-  <br>
+  <br><br>
   <img
     align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limajulianaa&theme=pink"
   />
-  <br>
-  <br>
+  <br><br>
   <img
     height=154
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=limajulianaa&theme=pink&card_width=885"
   />
-  </div>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
@@ -87,7 +87,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
 </div>
 
 <br>
@@ -98,18 +97,14 @@
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <b>Contact me:</b>
   </samp>
-  <br>
-  <br>
+  <br><br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:lima.juliana453@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/kamyzmedino/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](https://discord.gg/8kc8HqXVw2)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
-  
 </div>
 
 <div align="center">
@@ -124,10 +119,9 @@
 </div>
 
 <br>
-
 </details>
 
-<br>
-<br>
+<br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+

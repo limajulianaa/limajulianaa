@@ -18,7 +18,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/hmD0KIs.png" width="200">
+  <img src="[https://imgur.com/a/o-mais-mais-AEt46xn.gif]" width="200">
 </div>
 <br>
 <div align="center">
@@ -29,7 +29,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+computer+engineer+student;Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Computer+Engineer+student;Welcome to my profile!" alt="Typing SVG"/>
 </div>
 
 <br>

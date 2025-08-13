@@ -29,7 +29,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a++Computer+Engineer+Student;And+a+full+stack+developer;Welcome to my profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Computer+Engineer+Student;and+also+a+Full+Stack+Developer;Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>

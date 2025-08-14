@@ -1,12 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 
-<br>
-
-<div align="center">
-  
-  <b>`get to know me`</b>
-  <samp>
-      <br>
       Hi there! I'm <b>Juliana Lima</b>
   </samp>
 </div>

@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <b>`vouescreveralgumacoisaaqainda`</b>
+  <b>`get to know me`</b>
   <samp>
       <br>
       Hi there! I'm <b>Juliana Lima</b>
@@ -38,7 +38,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>About me</b>
+        <b>Read More</b>
       </samp>
   </summary>
   
@@ -86,7 +86,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Blender-Dark.svg" />
   
 </div>
 

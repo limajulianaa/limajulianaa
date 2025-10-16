@@ -22,8 +22,6 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/jubs_♡-black" />
-</div>
 
 <br>
 <br>
@@ -108,7 +106,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:lima.juliana453@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/juju1ima/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/limajuju)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=9745f5)](https://www.linkedin.com/in/limajuju)
   
 </div>
 
